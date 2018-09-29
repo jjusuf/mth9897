@@ -1,2 +1,2 @@
-# mth9897
+# MTH 9897
 school projects
